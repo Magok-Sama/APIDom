@@ -6,10 +6,10 @@ This project is for education use ONLY. The author and contributors are NOT resp
 Exposed API of certain application. All reference to the mentioned application will be censored to protect the application.
 
 # Content
-1) API
-2) Encryption/Decryption (Security Keys will NOT be included)
-3) Usage
-
+- API
+- Encryption/Decryption (Security Keys will NOT be included)
+- Usage
+# 
 - API -
 {List of Methods}
 
